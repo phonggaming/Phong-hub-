@@ -2740,7 +2740,7 @@ print("stop tween")
 local ScreenGui = Instance.new("ScreenGui")
 local TextLabel = Instance.new("TextLabel")
 local UIGradient = Instance.new("UIGradient")
-ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("-- Tạo các thành phần UI
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("playGui")
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local TitleLabel = Instance.new("TextLabel")
